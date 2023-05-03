@@ -10,7 +10,16 @@ I received my B.S. in Computer Science from UC Davis, where I gained a solid fou
 
 In my free time, I enjoy exploring the latest advancements in technology, reading up on the latest news in the gaming industry, and trying out new programming languages and tools. I'm always eager to learn and grow in the field of CS and am excited about the possibilities that lie ahead.
 
-## Projects 💡
+<!--## Projects 💡
+
+Check out my project demo's below:
+
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+
+All source code can be found in my pinned repositories.-->
 
 ## Skills 💻
 
@@ -30,6 +39,12 @@ In my free time, I enjoy exploring the latest advancements in technology, readin
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+## Links 🌎
+
+<a href='https://www.linkedin.com/in/noahdelacruz/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href='https://noah-delacruz.github.io/'>![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **noah-delacruz/noah-delacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
