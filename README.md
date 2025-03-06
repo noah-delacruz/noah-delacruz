@@ -2,7 +2,7 @@
 
 My name is Noah dela Cruz and I'm a computer science graduate from San Jose, California. I've always had a passion for video games and technology ever since I was young, and this love ultimately inspired me to pursue a career in CS.
 
-I received my B.S. in Computer Science from UC Davis, where I gained a solid foundation in C++, Python, and JavaScript.
+I received my B.S. in Computer Science from UC Davis, where I gained a solid foundation in JavaScript, React, and Express.
 
 In my free time, I enjoy watching anime, finding new music, playing basketball, and working out!
 
